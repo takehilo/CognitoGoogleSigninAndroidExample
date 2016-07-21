@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CognitoGoogleSignin</string>
+
+    <string name="server_client_id">CLIENT_ID</string>
+    <string name="identity_pool_id">IDENTITY_POOL_ID</string>
+    <string name="google_provider">accounts.google.com</string>
+</resources>
